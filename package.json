@@ -1,0 +1,44 @@
+{
+  "name": "multi-tenant-saas-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --webpack",
+    "build": "next build --webpack",
+    "start": "next start",
+    "lint": "eslint . --max-warnings=0",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "@auth/mongodb-adapter": "latest",
+    "@hookform/resolvers": "latest",
+    "bcryptjs": "latest",
+    "clsx": "latest",
+    "framer-motion": "latest",
+    "lucide-react": "latest",
+    "mongoose": "latest",
+    "next": "latest",
+    "next-auth": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-hook-form": "latest",
+    "recharts": "latest",
+    "stripe": "latest",
+    "tailwind-merge": "latest",
+    "zod": "latest",
+    "zustand": "latest"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "postcss": "latest",
+    "prettier": "latest",
+    "tailwindcss": "^3.4.17",
+    "typescript": "latest"
+  }
+}
