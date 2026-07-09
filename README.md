@@ -58,7 +58,7 @@ The project follows scalable folder organization, reusable UI components, protec
 
 ## 🏠 Dashboard
 
-![Dashboard] <img width="960" height="410" alt="Dashboard - Saas" src="https://github.com/user-attachments/assets/1fa30de9-935e-4840-adc8-7d4ede7ca5d9" />
+[Dashboard] <img width="960" height="410" alt="Dashboard - Saas" src="https://github.com/user-attachments/assets/1fa30de9-935e-4840-adc8-7d4ede7ca5d9" />
 
 Modern SaaS dashboard with KPI cards, revenue analytics, subscriptions, notifications, and responsive sidebar navigation.
 
@@ -66,7 +66,7 @@ Modern SaaS dashboard with KPI cards, revenue analytics, subscriptions, notifica
 
 ## 📈 Analytics
 
-![Analytics] <img width="960" height="418" alt="Analytics" src="https://github.com/user-attachments/assets/8f9da1d3-4388-45e3-90a7-b5f818e5bc00" />
+[Analytics] <img width="960" height="418" alt="Analytics" src="https://github.com/user-attachments/assets/8f9da1d3-4388-45e3-90a7-b5f818e5bc00" />
 
 Interactive analytics dashboard featuring revenue trends, monthly growth, subscription metrics, and export functionality.
 
@@ -74,7 +74,7 @@ Interactive analytics dashboard featuring revenue trends, monthly growth, subscr
 
 ## 💳 Billing
 
-![Billing] <img width="960" height="417" alt="Billing" src="https://github.com/user-attachments/assets/43e6e3fd-46c3-4666-a300-77e217973a66" />
+[Billing] <img width="960" height="417" alt="Billing" src="https://github.com/user-attachments/assets/43e6e3fd-46c3-4666-a300-77e217973a66" />
 
 Subscription management with Free, Pro, and Enterprise plans, billing history, invoices, and Stripe customer portal integration.
 
@@ -82,7 +82,7 @@ Subscription management with Free, Pro, and Enterprise plans, billing history, i
 
 ## 🔔 Notifications
 
-![Notifications] <img width="960" height="419" alt="Notification" src="https://github.com/user-attachments/assets/edd6430c-d55a-4098-b8b1-9fea5805ee2c" />
+[Notifications] <img width="960" height="419" alt="Notification" src="https://github.com/user-attachments/assets/edd6430c-d55a-4098-b8b1-9fea5805ee2c" />
 
 Centralized notification center displaying billing updates, invitations, project activities, and system alerts.
 
