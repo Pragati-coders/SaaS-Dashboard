@@ -1,3 +1,4 @@
+<img width="960" height="419" alt="Notification" src="https://github.com/user-attachments/assets/edd6430c-d55a-4098-b8b1-9fea5805ee2c" />
 # 🚀 Nexora Cloud – Production-Ready Multi-Tenant SaaS Dashboard
 
 A modern enterprise-grade **Multi-Tenant SaaS Dashboard** built with **Next.js 15**, **TypeScript**, **MongoDB**, **Tailwind CSS**, **Stripe**, and **RBAC**.
