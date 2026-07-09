@@ -1,5 +1,3 @@
-![Uploading Notification.png…]()
-<img width="960" height="417" alt="Billing" src="https://github.com/user-attachments/assets/43e6e3fd-46c3-4666-a300-77e217973a66" />
 <img width="960" height="418" alt="Analytics" src="https://github.com/user-attachments/assets/8f9da1d3-4388-45e3-90a7-b5f818e5bc00" />
 # 🚀 Nexora Cloud – Production-Ready Multi-Tenant SaaS Dashboard
 
@@ -69,7 +67,7 @@ Modern SaaS dashboard with KPI cards, revenue analytics, subscriptions, notifica
 
 ## 📈 Analytics
 
-![Analytics](./screenshots/analytics.png)
+![Analytics] <img width="960" height="418" alt="Analytics" src="https://github.com/user-attachments/assets/8f9da1d3-4388-45e3-90a7-b5f818e5bc00" />
 
 Interactive analytics dashboard featuring revenue trends, monthly growth, subscription metrics, and export functionality.
 
@@ -85,7 +83,7 @@ Manage workspace members, invite users, assign roles, search team members, and m
 
 ## 💳 Billing
 
-![Billing](./screenshots/billing.png)
+![Billing] <img width="960" height="417" alt="Billing" src="https://github.com/user-attachments/assets/43e6e3fd-46c3-4666-a300-77e217973a66" />
 
 Subscription management with Free, Pro, and Enterprise plans, billing history, invoices, and Stripe customer portal integration.
 
