@@ -1,4 +1,3 @@
-<img width="960" height="419" alt="Notification" src="https://github.com/user-attachments/assets/edd6430c-d55a-4098-b8b1-9fea5805ee2c" />
 # 🚀 Nexora Cloud – Production-Ready Multi-Tenant SaaS Dashboard
 
 A modern enterprise-grade **Multi-Tenant SaaS Dashboard** built with **Next.js 15**, **TypeScript**, **MongoDB**, **Tailwind CSS**, **Stripe**, and **RBAC**.
@@ -73,14 +72,6 @@ Interactive analytics dashboard featuring revenue trends, monthly growth, subscr
 
 ---
 
-## 👥 Team Management
-
-![Team](./screenshots/team.png)
-
-Manage workspace members, invite users, assign roles, search team members, and maintain tenant-scoped permissions.
-
----
-
 ## 💳 Billing
 
 ![Billing] <img width="960" height="417" alt="Billing" src="https://github.com/user-attachments/assets/43e6e3fd-46c3-4666-a300-77e217973a66" />
@@ -91,7 +82,7 @@ Subscription management with Free, Pro, and Enterprise plans, billing history, i
 
 ## 🔔 Notifications
 
-![Notifications](./screenshots/notifications.png)
+![Notifications] <img width="960" height="419" alt="Notification" src="https://github.com/user-attachments/assets/edd6430c-d55a-4098-b8b1-9fea5805ee2c" />
 
 Centralized notification center displaying billing updates, invitations, project activities, and system alerts.
 
