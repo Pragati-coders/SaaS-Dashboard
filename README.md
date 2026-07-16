@@ -10,7 +10,7 @@ Designed to simulate a production SaaS application with authentication, tenant w
 
 🌐 Live Application
 
-https://vercel.com/pragati-mishra-s-projects/saa-s-dashboard
+https://saa-s-dashboard-mu.vercel.app/
 
 
 💻 GitHub Repository
