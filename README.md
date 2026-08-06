@@ -433,7 +433,7 @@ It helps others discover the project and motivates future development.
 
 # 👩‍💻 Author
 
-**Pragati Mishra**
+**Pragati**
 
 ### GitHub
 
