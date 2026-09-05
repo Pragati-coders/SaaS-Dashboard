@@ -431,12 +431,4 @@ It helps others discover the project and motivates future development.
 
 ---
 
-# 👩‍💻 Author
 
-**Pragati**
-
-### GitHub
-
-https://github.com/Pragati-coders
-
----
